@@ -1,0 +1,34 @@
+1. PyCharm Professional 설치 및 환경 설정
+
+- PyCharm Professional을 본인의 컴퓨터 환경에 맞게 설치하세요. 최신 버전의 PyCharm에서 GPT 모델을 활용할 수 있도록 필요한 라이브러리(예: Hugging Face transformers, torch, datasets 등)를 설치합니다.
+
+
+
+2. GPT 모델 실습
+
+- GPT 모델에 대해 공부하고, 본인의 데이터셋을 준비하여 모델을 Fine-tune 또는 Pre-train 할 수 있도록 구성합니다. (예: 텍스트 데이터셋, 고객 리뷰 데이터 등)
+
+- Pre-training과 Fine-tuning을 통해 모델을 훈련시키고, 주어진 Task에 맞는 최적화된 모델을 도출합니다.
+
+■ Pre-training: GPT 모델의 기본적인 언어 모델 학습을 진행합니다.
+
+■ Fine-tuning: 특정 데이터셋을 사용하여 GPT 모델을 세부 조정합니다. 예를 들어, 특정 분야의 텍스트 생성, 질문 답변 시스템 등에 맞는 Fine-tuning을 해봅니다.
+
+
+
+3. Prompting 실습
+
+- GPT 모델의 성능을 Prompting 기법을 사용해 테스트합니다. 자연어로 질문을 던지고 모델이 어떻게 반응하는지 확인합니다. (예시: "What are the key advantages of GPT models?")
+- 다양한 Prompting 방식 (단순 질의, 조건을 설정한 질문 등)을 활용하여 GPT3 모델을 최적화하고 결과를 분석합니다.
+
+
+
+4. GPT 모델 평가 및 분석
+
+- 학습된 GPT 모델을 사용하여 예측 결과를 얻고 이를 분석합니다. 생성된 텍스트의 품질을 평가하고, Prompting 기법을 활용하여 더 나은 예측 결과를 얻기 위한 방법을 논의합니다.
+
+
+
+5. PyCharm Professional의 도구 활용 평가
+
+- PyCharm Professional을 사용하여 프로젝트를 진행하면서, PyCharm이 제공하는 기능들(예: 디버깅, 코드 완성, 가상 환경 관리 등)을 평가합니다.
